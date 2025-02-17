@@ -8,3 +8,5 @@ first attempt: https://regex101.com/r/AaTOUs/1
 
 Restated:
 using base 256 instead of hex to avoid converting to 256 later: https://regex101.com/r/JHCtzP/1
+
+Actual progress: https://regex101.com/r/JHCtzP/4
