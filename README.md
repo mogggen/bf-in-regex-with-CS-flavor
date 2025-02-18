@@ -10,3 +10,5 @@ Restated:
 using base 256 instead of hex to avoid converting to 256 later: https://regex101.com/r/JHCtzP/1
 
 Actual progress: https://regex101.com/r/JHCtzP/4
+
+Can use \000 \001 \002 \003 \004 \005 \006 \007 for Control characters: https://regex101.com/r/JHCtzP/5
