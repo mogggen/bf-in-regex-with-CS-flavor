@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BF_IN_REGEX_WITH_CS_FLAVOR", "BF_IN_REGEX_WITH_CS_FLAVOR\BF_IN_REGEX_WITH_CS_FLAVOR\BF_IN_REGEX_WITH_CS_FLAVOR.csproj", "{53456F55-45C1-4B37-B6A5-41113AB733A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BF_IN_REGEX_WITH_CS_FLAVOR.Client", "BF_IN_REGEX_WITH_CS_FLAVOR\BF_IN_REGEX_WITH_CS_FLAVOR.Client\BF_IN_REGEX_WITH_CS_FLAVOR.Client.csproj", "{C5A33858-A7B9-4C3B-A244-CF4F3F0C6A85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53456F55-45C1-4B37-B6A5-41113AB733A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53456F55-45C1-4B37-B6A5-41113AB733A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53456F55-45C1-4B37-B6A5-41113AB733A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53456F55-45C1-4B37-B6A5-41113AB733A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5A33858-A7B9-4C3B-A244-CF4F3F0C6A85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5A33858-A7B9-4C3B-A244-CF4F3F0C6A85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5A33858-A7B9-4C3B-A244-CF4F3F0C6A85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5A33858-A7B9-4C3B-A244-CF4F3F0C6A85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0748E57-13F6-4C32-BAFE-9FB8A0AFD85E}
+	EndGlobalSection
+EndGlobal
